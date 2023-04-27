@@ -1,0 +1,5 @@
+com/singam/crud/entity/Order.class
+com/singam/crud/repository/OrderRepository.class
+com/singam/crud/service/OrderService.class
+com/singam/crud/SpringbootCrudK8sExampleApplication.class
+com/singam/crud/controller/OrderController.class
