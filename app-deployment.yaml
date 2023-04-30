@@ -21,7 +21,7 @@ spec:
             - name: DB_HOST   # Setting Database host address from configMap
               value: mysql
             - name: DB_NAME  # Setting Database name from configMap
-              value: javatechie
+              value: singamlabs
             - name: DB_USERNAME  # Setting Database username from Secret
               value: root
             - name: DB_PASSWORD # Setting Database password from Secret
