@@ -17,7 +17,7 @@ systemctl enable docker
 6. Install Conntrack:
 
 yum install conntrack -y
-
+yum install git -y
 7. Install k8
 
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
